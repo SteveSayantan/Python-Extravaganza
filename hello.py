@@ -14,4 +14,4 @@ print('Today is Thursday','Tomorrow is Friday') #Adds a space between two string
 print('This Mango is "Sweet"')
 print('This Mango is \'Sweet\'')
 
-print('Today is Thursday\n\t','Tomorrow is Friday') # \n starts a new line and \t gives a tab
+print('\tToday is Thursday\n','Tomorrow is Friday') # \n starts a new line and \t gives a tab
